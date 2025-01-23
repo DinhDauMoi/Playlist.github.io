@@ -215,4 +215,10 @@ let allMusic = [
     img: "music-36",
     src: "music-36",
   },
+  {
+    name: "Cao Ốc 20",
+    artist: "B RAY x DatG",
+    img: "music-37",
+    src: "music-37",
+  },
 ];
